@@ -1,0 +1,151 @@
+.trait{background-color:red;display:inline-block;width:40px;height:40px;margin:0}
+
+.trait1{
+      background: 0 0;
+      width:34px}
+.trait1_incorrect{
+      background: 0 -80px;
+      width:34px}
+.trait1_correct{
+      background: 0 -40px;
+      width:34px}
+
+.trait2{
+      background: -34px 0;
+      width:35px}
+.trait2_incorrect{
+      background: -34px -80px;
+      width:35px}
+.trait2_correct{
+      background: -34px -40px;
+      width:35px}
+
+.trait3{
+      background: -69px 0;
+      width:34px;margin-left:15px}
+.trait3_incorrect{
+      background: -69px -80px;
+      width:34px}
+.trait3_correct{
+      background: -69px -40px;
+      width:34px}
+
+.trait4{
+      background: -103px 0;
+      width:34px}
+.trait4_incorrect{
+      background: -103px -80px;
+      width:34px}
+.trait4_correct{
+      background: -103px -40px;
+      width:34px}
+
+.trait5{
+      background: -136px 0;
+      width:35px;margin-right:20px}
+.trait5_incorrect{
+      background: -136px -80px;
+      width:35px}
+.trait5_correct{
+      background: -136px -40px;
+      width:35px}
+
+.trait6{
+      background: -172px 0;
+      width:35px}
+.trait6_incorrect{
+      background: -172px -80px;
+      width:35px}
+.trait6_correct{
+      background: -172px -40px;
+      width:35px}
+
+.trait7{
+      background: -207px 0;
+      width:35px}
+.trait7_incorrect{
+      background: -207px -80px;
+      width:35px}
+.trait7_correct{
+      background: -207px -40px;
+      width:35px}
+
+.trait8{
+      background: -242px 0;
+      width:35px}
+.trait8_incorrect{
+      background: -242px -80px;
+      width:35px}
+.trait8_correct{
+      background: -242px -40px;
+      width:35px}
+
+.trait9{
+      background: -277px 0;
+      width:34px}
+.trait9_incorrect{
+      background: -277px -80px;
+      width:34px}
+.trait9_correct{
+      background: -277px -40px;
+      width:34px}
+
+.trait10{
+      background: -311px 0;
+      width:34px;margin-left:14px;margin-right:20px}
+.trait10_incorrect{
+      background: -311px -80px;
+      width:34px}
+.trait10_correct{
+      background: -311px -40px;
+      width:34px}
+
+.trait11{
+      background: -345px 0;
+      width:35px}
+.trait11_incorrect{
+      background: -345px -80px;
+      width:35px}
+.trait11_correct{
+      background: -345px -40px;
+      width:35px}
+
+.trait12{
+      background: -379px 0;
+      width:35px}
+.trait12_incorrect{
+      background: -379px -80px;
+      width:35px}
+.trait12_correct{
+      background: -379px -40px;
+      width:35px}
+
+.trait13{
+      background: -414px 0;
+      width:35px;margin-left:14px}
+.trait13_incorrect{
+      background: -414px -80px;
+      width:35px}
+.trait13_correct{
+      background: -414px -40px;
+      width:35px}
+
+.trait14{
+      background: -448px 0;
+      width:34px}
+.trait14_incorrect{
+      background: -448px -80px;
+      width:34px}
+.trait14_correct{
+      background: -450px -40px;
+      width:34px}
+
+.trait15{
+      background: -482px 0;
+      width:35px;margin-right:20px}
+.trait15_incorrect{
+      background: -482px -80px;
+      width:35px}
+.trait15_correct{
+      background: -482px -40px;
+      width:35px}
